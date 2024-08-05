@@ -5,9 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- https://media.tenor.com/QKZ-Ld0TFuUAAAAC/hu-tao-genshin-impact.gif
-
-
+- https://www.gifcen.com/wp-content/uploads/2021/11/hu-tao-13.gif
 <!---
 LorenaBorchardtHenn/LorenaBorchardtHenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
