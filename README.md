@@ -5,11 +5,10 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 
-https://github.com/user-attachments/assets/57c4cce0-1774-40d7-8f21-cde4ba2f8d73
 
 <!---
 LorenaBorchardtHenn/LorenaBorchardtHenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![hu-tao-13](https://github.com/user-attachments/assets/0cc84a63-a30c-4312-ad9c-cd184b2f06f1)
 
