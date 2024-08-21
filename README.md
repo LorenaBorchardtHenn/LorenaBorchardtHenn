@@ -5,8 +5,11 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- https://www.gifcen.com/wp-content/uploads/2021/11/hu-tao-13.gif
+- 
+https://github.com/user-attachments/assets/57c4cce0-1774-40d7-8f21-cde4ba2f8d73
+
 <!---
 LorenaBorchardtHenn/LorenaBorchardtHenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
